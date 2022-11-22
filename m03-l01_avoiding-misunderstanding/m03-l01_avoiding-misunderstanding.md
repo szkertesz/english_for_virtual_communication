@@ -75,3 +75,63 @@ I don’t think I got it right. **Can you be a bit more specific about what you 
     A: Yeah, absolutely.
 
     B: What we'd like is, we have this great…
+
+***
+
+## Extra mile
+
+https://englishwithkim.com/clarifying-confirming-understanding/
+
+use an itroductory phrase:
+
+- Would you mind ... ?
+- Could I ask you ... ?
+- Could you ... ?
+
+start with a small apology:
+
+- Sorry ...
+- Just a second ...
+- Sorry to interrupt ...
+
+admit you missed something:
+
+- I didn't catch that
+- I didn't get that
+- I want be sure I understood
+- I want to make sure I heard that right
+
+### clarifying questions
+
+- Would you mind repeating that for me again?
+- Would you mind going over that one more time?
+- Sorry, could I ask you to tell me that (piece of information) again?
+- Could you clarify what you meant by (challenging word)?
+- Just a second, could I get a little more clarification on (X topic)? I just want to be sure I understood.
+- Sorry to interrupt, but I didn’t catch that. Could you run it by me one more time?
+- Could you be more specific?
+- I don’t think I got your meaning. Could you go over that again?
+- I don’t think I quite understand what you meant. Would you mind repeating that?
+
+### Confirm Your Understanding By Repeating and Restating the Other Person’s Idea
+
+- Let me see if I understood correctly.
+- Can I just check what I got from that?
+- **I’d just like to confirm that I got that right.**
+- **My impression of what you said was…  Is that what you meant?**
+- So what you are saying is… Does that sound right?
+- You mean that we should (do X action and Y action). Is that right?
+- Do I understand you to mean…
+- If I understand you correctly, you are saying…
+- **Am I reading your suggestion right, when you said…?**
+- You mean…?
+- I think you are saying…
+- In other words…
+
+### Say Thank You and Show You Understood
+
+- **Thanks for clarifying. I understand better now.**
+- **Thank you for repeating that. It makes more sense to me.**
+- **Thanks for explaining your point of view again.** That helps me see where you’re coming from.
+- Thanks. We seem to be on the same page now.
+- **I appreciate the clarification.** Glad we agree on that.

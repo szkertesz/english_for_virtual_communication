@@ -1,4 +1,4 @@
-# Dealing with tech issues 2
+# Dealing with tech issues #2
 
 https://sway.office.com/SRm9xszkFES10IFp?ref=Link&loc=play
 dead air
@@ -9,12 +9,12 @@ I have the highest number of meetings on Wednesday.
 
 ***
 
-amount vs. number
+## amount vs. number
 
-amount - uncountables
+**amount** - uncountables
 amount of time / patience / work / love / money
 
-number - countables
+**number** - countables
 number of projects / people / colleagues / tasks
 
 ***
@@ -28,4 +28,5 @@ have difficulties + ... -ing [gerund]
 ***
 
 would you mind speaking up
-let's call it a day
+
+OK, let's call it a day! [let's finish the session]

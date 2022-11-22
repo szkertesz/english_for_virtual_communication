@@ -29,7 +29,7 @@ avoid
 
 - How are you doing, Hanna?
 - I'm very well, thank you.
-- How was yout vacation?
+- How was your vacation?
 - It was awesome.
 - Did you go somewhere exciting?
 - I did. I went to Greece.
@@ -70,7 +70,7 @@ some phrases we can use to make small talk & transition to business talk
   Nothing much, actually.
 
 - How's your day going?
-  How has your day been so far?
+  How has / How's your day been so far?
 - Not too bad, and yours?
 
 - What's the weather like in [location]?
