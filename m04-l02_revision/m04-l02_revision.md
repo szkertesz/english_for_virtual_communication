@@ -16,3 +16,7 @@ https://www.youtube.com/watch?v=gCfzeONu3Mo
 
 if word ends -t or -d we pronounce "ED"
 
+***
+
+I don't know the answer **off the top of my head**
+
