@@ -58,3 +58,22 @@ I have to think about that.  Well, I think probably …
       - I'm going to switch over to [the Chrome window] now.
       - Sorry for the dead air here. Let me just refresh the page and try again.
 
+1. So I'm going to do a live demonstration. Please  and switch over to my computer screen so that you can follow along.
+
+2.
+A: How long do you retain this data for?
+B: Well, we keep logs for a long time. I’m afraid I can't put a number of months on that. , but it is months.
+
+3.
+A: So do you think that video improves the conversion?
+B: Hmm, . That’s a tough one. Hmm.  it might improve it.
+
+4.
+A: So do you think it would be better to send it from the server?
+B: Hmm, I’ve actually never done that, so .  I’d play around with that and see if it works.
+
+5. I’m going to walk you through it, and we're going to see how that works for you guys. So . And I’d like to start off here with Safari. Can everybody see the landing page?
+
+6. What we're going to use is Processing. . So Processing is just an application. I’ve already downloaded it and it’s already sitting here on the machine.
+
+7. Let's jump to the browser and see if that works. Oops, doesn't look like it. Hmm … . Hey, here we go.
