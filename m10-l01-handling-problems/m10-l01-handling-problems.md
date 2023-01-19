@@ -43,3 +43,15 @@ hate / love / like / avoid / etc. -- words about likes / dislikes
 BUT
 
 would like TO do sth
+
+## Extra mile
+https://www.linkedin.com/learning/career-clinic-developer-insights/raising-concerns?autoplay=true&u=2113185
+
+raise a concern
+to resolve a problem
+If you see a problem, propose a solution.
+I'm worried that this direction might cause an issue for us
+to mitigate the issue
+there's many different ways to skin a cat
+to have a concern about sth / to be concerned about sth
+give advice on how to get your concerns heard
