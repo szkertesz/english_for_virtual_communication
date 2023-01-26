@@ -16,4 +16,4 @@ We seem to have different opinions here
 That's not quite how I see it
 We don't see eye to eye over this topic.
 
-if we didn'do it correctly 
+if we didn't do it correctly 
