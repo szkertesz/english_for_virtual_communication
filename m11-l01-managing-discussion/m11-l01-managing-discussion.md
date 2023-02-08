@@ -39,9 +39,9 @@ B: **Sorry guys, I need to run to another meeting**. Thanks everyone.
 1. I'll answer briefly and then pass it over to Ryan.
 2. So going back to where we were, let’s agree that these timings seem unreasonable.
 3. So to recap, these are the five main points of the attendance policy.
-4. And I'm going to run you through the architecture of the device.
+4. And I'm going to **run / talk you through** the architecture of the device.
 5. We’re just about out of time, but let’s proceed to the questions anyway.
-6. I'm inviting our project manager Jake to start us off with the meeting agenda.
+6. I'm inviting our project manager Jake to **start us off with** the meeting agenda.
 7. I suppose we're getting a little off topic here.
 8. Sorry, I have to run to another meeting, but we'll talk soon. Bye everyone.
 9. Before I get to this slide, I just wanted to take you through the intermediate results.
@@ -88,4 +88,46 @@ So we're going **to wrap** up. (=Let's finish)
 ## extra mile
 
 https://www.engvid.com/improve-your-english-online-meeting-phrases/ (!)
+
+### Kick off - overal purpose...
+- So the purpose of this call is to agree an action plan for sth.
+- The 1st item on our agenda is ...
+
+### Get someone talking
+- [name] could you talk us through sth. please?
+- I'd be interested in hearing what you think about sth.
+- [name], maybe you've got some thoughts on sth.
+- how do you feel about this idea?
+- what do you think about sth. ?
+- [name], what's your view on this?
+
+### Giving opinion
+- I think that's a good idea.
+- well, in my opinion ...
+- what I've seen so far ...
+- I'd say that ... this doesn't seem to be a particularly good idea
+- *As far as I'm concerned* the main problem is that ...
+
+### Checking understanding
+- *Am I right in thinking that* the general opinion is ... / are we all agreed on sth.
+- So you're saying that ...
+- Can I just check are we all up to speed on ...
+
+### Don't agree
+- *With respect to* what you were just saying about ... I'd like to point out that ...
+- I've still got some reservations about that
+
+### Sh!
+- Sorry [name], could you let [othername] finish what he/she was saying?
+- OK, I think we're digressing a bit here / we're leaving the agenda / go off-topic
+- Could we just come back to the agenda folks?
+
+### Towards the end
+#### Clarify action points / who has responsibility for doing what / making sure people are being accountable for their responsibilities
+- Let's summarise what's been agreed.
+- Can I just check who's doing what and by when?
+
+#### End it
+- OK, we seem to have some sort of consensus here (we're all on the same page).
+- We are going to need to draw things to a close now.
 
